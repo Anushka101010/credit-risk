@@ -1,9 +1,9 @@
-print ("hello")
-print ("in this program I will add two numbers")
-a = "hello"
-print (a)
-even_num = "2"
-print (even_num)
+# print ("hello")
+# print ("in this program I will add two numbers")
+# a = "hello"
+# print (a)
+# even_num = "2"
+# print (even_num)
 
 """datatypes
 1. text-type: string (str)
