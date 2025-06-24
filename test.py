@@ -58,7 +58,7 @@ print (age)
 print (address)
 
 # write a program to swap two variables
-method 1
+# method 1
 x = 12
 y = 13
 temp = x
